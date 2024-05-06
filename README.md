@@ -120,3 +120,54 @@ Predictive analysis involves using historical data to predict future outcomes or
 
 Predictive analysis has become increasingly important in today's data-driven world, enabling organizations to make data-driven decisions, optimize processes, and gain competitive advantages.
 
+## Key Takeaways
+
+- Industries from insurance to marketing use predictive techniques to make important decisions.
+- Predictive models help make weather forecasts, develop video games, translate voice-to-text messages, make customer service decisions, and develop investment portfolios.
+- Predictive analytics determines a likely outcome based on an examination of current and historical data.
+- Decision trees, regression, and neural networks all are types of predictive models.
+- People often confuse predictive analytics with machine learning even though the two are different disciplines.
+
+
+# Types of Predictive Analytical Models
+
+There are three common techniques used in predictive analytics: Decision trees, neural networks, and regression.
+
+## Decision Trees
+
+If you want to understand what leads to someone's decisions, you may find it useful to build a decision tree.
+
+This type of model places data into different sections based on certain variables, such as price or market capitalization. Just as the name implies, it looks like a tree with individual branches and leaves. Branches indicate the choices available while individual leaves represent a particular decision.
+
+Decision trees are easy to understand and dissect. They're useful when you need to make a decision quickly.
+
+## Regression
+
+This is the model that is used the most in statistical analysis. Use it when you want to decipher patterns in large sets of data and when there's a linear relationship between the inputs.
+
+This method works by figuring out a formula, which represents the relationship between all the inputs found in the dataset.
+
+For example, you can use regression to figure out how price and other key factors can shape the performance of a stock.
+
+## Neural Networks
+
+Neural networks were developed as a form of predictive analytics by imitating the way the human brain works. This model can deal with complex data relationships using artificial intelligence and pattern recognition.
+
+Use this method if you have any of several hurdles that you need to overcome. For example, you may have too much data on hand, or don't have the formula you need to find a relationship between the inputs and outputs in your dataset, or need to make predictions rather than come up with explanations.
+
+If you've already used decision trees and regression as models, you can confirm your findings with neural networks.
+
+## Cluster Models
+
+Clustering is a method of aggregating data that share similar attributes. For example, Amazon.com can cluster sales based on the quantity purchased, or on the average account age of its consumers.
+
+By separating data into similar groups based on shared features, analysts may be able to identify other characteristics that define future activity.
+
+## Time Series Modeling
+
+In some cases, data relates to time, and specific predictive analytics rely on the relationship between what happens when. These types of models assess inputs at specific frequencies such as daily, weekly, or monthly iterations.
+
+Then, analytical models can seek seasonality, trends, or behavioral patterns based on timing.
+
+This type of predictive model is useful to predict when peak customer service periods are needed or when specific sales can be expected to jump.
+
