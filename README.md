@@ -1,6 +1,6 @@
 # Predictive-Analysis
 
-# Detailed Roadmap for Learning Predictive Analysis
+## Detailed Roadmap for Learning Predictive Analysis
 
 ## Understand the Basics:
 - **Importance: ★★★★★**
@@ -170,4 +170,12 @@ In some cases, data relates to time, and specific predictive analytics rely on t
 Then, analytical models can seek seasonality, trends, or behavioral patterns based on timing.
 
 This type of predictive model is useful to predict when peak customer service periods are needed or when specific sales can be expected to jump.
+
+
+
+## Descriptive Statistics
+
+Descriptive statistics are brief informational coefficients that summarize a given data set, which can be either a representation of the entire population or a sample of a population. Descriptive statistics are broken down into measures of central tendency and measures of variability (spread).
+
+![aaa](https://github.com/jitesh-raut/Predictive-Analysis/assets/34537398/353f6904-9a20-46e0-949a-332f4949f327)
 
